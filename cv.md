@@ -20,3 +20,7 @@ GitHub: https://github.com/alexSolovevSerge
 <h2>Education:</h2>
 MTSU STANKIN 2018<br>
 JavaRush<br>
+
+<h2>English:</h2>
+C1 Level
+I have a lot of experience in speaking and reading documentation.
